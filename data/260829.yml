@@ -1,0 +1,63 @@
+about:
+  description: AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+  license: MIT
+  homepage: 
+  head: 853a80d
+  archived: false
+  latestVersion: v0.84.4
+  collectedAt: 2026-08-29T07:29:55Z
+timeline:
+  created: 2025-08-09
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-28
+popularity:
+  star: 98878
+  watcher: 318
+  fork: 12255
+  release: 257
+  contributor: 280
+  pullRequest: 2039
+  issue: 5518
+language:
+  TypeScript: 8837627
+  JavaScript: 303520
+  Shell: 29879
+  CSS: 22724
+  C: 10086
+  HTML: 2225
+  PowerShell: 1670
+  Batchfile: 338
+totalLine: 9208069
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 5
+    mergedPR: 159
+    openPR: 59
+    closedIssue: 915
+    openIssue: 34
+    commit: 575
+  last90d:
+    since: 2026-05-31
+    release: 32
+    mergedPR: 344
+    openPR: 65
+    closedIssue: 2338
+    openIssue: 68
+    commit: 1358
+  last180d:
+    since: 2026-03-02
+    release: 95
+    mergedPR: 576
+    openPR: 66
+    closedIssue: 4775
+    openIssue: 72
+    commit: 2630
+  last360d:
+    since: 2025-09-03
+    release: 100
+    mergedPR: 933
+    openPR: 66
+    closedIssue: 5446
+    openIssue: 72
+    commit: 5395
