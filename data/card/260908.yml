@@ -5,19 +5,19 @@ about:
   head: b2602be
   archived: false
   latestVersion: "v0.85.1"
-  collectedAt: 2026-09-08T03:22:50Z
+  collectedAt: 2026-09-08T06:06:42Z
 timeline:
   created: 2025-08-09
   lastCommit: 2026-09-07
   lastRelease: 2026-09-05
 popularity:
-  star: 102827
+  star: 102873
   watcher: 322
-  fork: 12829
+  fork: 12840
   release: 259
   contributor: 290
-  pullRequest: 3092
-  issue: 5872
+  pullRequest: 3093
+  issue: 5876
 language:
   TypeScript: 10723880
   JavaScript: 478190
@@ -35,7 +35,7 @@ recent:
     release: 5
     mergedPR: 101
     openPR: 41
-    closedIssue: 954
+    closedIssue: 958
     openIssue: 44
     commit: 541
   last60d:
@@ -43,7 +43,7 @@ recent:
     release: 16
     mergedPR: 308
     openPR: 57
-    closedIssue: 1790
+    closedIssue: 1794
     openIssue: 74
     commit: 1282
   last90d:
@@ -51,7 +51,7 @@ recent:
     release: 31
     mergedPR: 361
     openPR: 58
-    closedIssue: 2443
+    closedIssue: 2447
     openIssue: 86
     commit: 1642
   last180d:
@@ -59,7 +59,7 @@ recent:
     release: 90
     mergedPR: 583
     openPR: 59
-    closedIssue: 4866
+    closedIssue: 4870
     openIssue: 97
     commit: 2870
   last360d:
@@ -67,7 +67,7 @@ recent:
     release: 100
     mergedPR: 972
     openPR: 59
-    closedIssue: 5775
+    closedIssue: 5779
     openIssue: 97
     commit: 5811
   last720d:
@@ -75,19 +75,19 @@ recent:
     release: 100
     mergedPR: 972
     openPR: 59
-    closedIssue: 5775
+    closedIssue: 5779
     openIssue: 97
     commit: 6297
 total:
   release: 259
   mergedPR: 972
   openPR: 59
-  closedIssue: 5775
+  closedIssue: 5779
   openIssue: 97
   commit: 6297
 ---
 path: /home/runner/.x-repo/github.com/earendil-works/pi
-collectedAt: 2026-09-08T03:23:04Z
+collectedAt: 2026-09-08T06:06:52Z
 loc:
   TypeScript:
     code: 267278
