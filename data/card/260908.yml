@@ -1,0 +1,171 @@
+about:
+  description: "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI"
+  license: MIT
+  homepage: 
+  head: b2602be
+  archived: false
+  latestVersion: "v0.85.1"
+  collectedAt: 2026-09-08T03:22:50Z
+timeline:
+  created: 2025-08-09
+  lastCommit: 2026-09-07
+  lastRelease: 2026-09-05
+popularity:
+  star: 102827
+  watcher: 322
+  fork: 12829
+  release: 259
+  contributor: 290
+  pullRequest: 3092
+  issue: 5872
+language:
+  TypeScript: 10723880
+  JavaScript: 478190
+  C: 36434
+  Shell: 29855
+  CSS: 22724
+  Objective-C: 4266
+  HTML: 2225
+  PowerShell: 1670
+  Batchfile: 338
+totalBytes: 11299582
+recent:
+  last30d:
+    since: 2026-08-09
+    release: 5
+    mergedPR: 101
+    openPR: 41
+    closedIssue: 954
+    openIssue: 44
+    commit: 541
+  last60d:
+    since: 2026-07-10
+    release: 16
+    mergedPR: 308
+    openPR: 57
+    closedIssue: 1790
+    openIssue: 74
+    commit: 1282
+  last90d:
+    since: 2026-06-10
+    release: 31
+    mergedPR: 361
+    openPR: 58
+    closedIssue: 2443
+    openIssue: 86
+    commit: 1642
+  last180d:
+    since: 2026-03-12
+    release: 90
+    mergedPR: 583
+    openPR: 59
+    closedIssue: 4866
+    openIssue: 97
+    commit: 2870
+  last360d:
+    since: 2025-09-13
+    release: 100
+    mergedPR: 972
+    openPR: 59
+    closedIssue: 5775
+    openIssue: 97
+    commit: 5811
+  last720d:
+    since: 2024-09-18
+    release: 100
+    mergedPR: 972
+    openPR: 59
+    closedIssue: 5775
+    openIssue: 97
+    commit: 6297
+total:
+  release: 259
+  mergedPR: 972
+  openPR: 59
+  closedIssue: 5775
+  openIssue: 97
+  commit: 6297
+---
+path: /home/runner/.x-repo/github.com/earendil-works/pi
+collectedAt: 2026-09-08T03:23:04Z
+loc:
+  TypeScript:
+    code: 267278
+    comments: 16397
+    blanks: 33336
+    files: 1381
+  JavaScript:
+    code: 13208
+    comments: 227
+    blanks: 849
+    files: 45
+  Json:
+    code: 11940
+    comments: 0
+    blanks: 12
+    files: 52
+  Css:
+    code: 867
+    comments: 24
+    blanks: 175
+    files: 1
+  Sh:
+    code: 787
+    comments: 99
+    blanks: 120
+    files: 11
+  C:
+    code: 726
+    comments: 23
+    blanks: 79
+    files: 5
+  CHeader:
+    code: 297
+    comments: 5
+    blanks: 27
+    files: 3
+  Sql:
+    code: 92
+    comments: 15
+    blanks: 14
+    files: 1
+  ObjectiveC:
+    code: 87
+    comments: 0
+    blanks: 6
+    files: 1
+  PowerShell:
+    code: 64
+    comments: 0
+    blanks: 7
+    files: 1
+  Html:
+    code: 49
+    comments: 3
+    blanks: 4
+    files: 1
+  Batch:
+    code: 11
+    comments: 0
+    blanks: 3
+    files: 1
+  Markdown:
+    code: 0
+    comments: 26638
+    blanks: 11787
+    files: 129
+total:
+  code: 301892
+  comments: 44185
+  blanks: 47179
+  files: 1632
+---
+
+---
+platform	name	url	size	score
+darwin/arm64	pi-darwin-arm64.tar.gz	https://github.com/earendil-works/pi/releases/download/v0.85.1/pi-darwin-arm64.tar.gz	31035676	45
+darwin/amd64	pi-darwin-x64.tar.gz	https://github.com/earendil-works/pi/releases/download/v0.85.1/pi-darwin-x64.tar.gz	33544584	45
+linux/arm64	pi-linux-arm64.tar.gz	https://github.com/earendil-works/pi/releases/download/v0.85.1/pi-linux-arm64.tar.gz	42628180	45
+linux/amd64	pi-linux-x64.tar.gz	https://github.com/earendil-works/pi/releases/download/v0.85.1/pi-linux-x64.tar.gz	42560927	45
+win/arm64	pi-windows-arm64.zip	https://github.com/earendil-works/pi/releases/download/v0.85.1/pi-windows-arm64.zip	43556369	45
+win/amd64	pi-windows-x64.zip	https://github.com/earendil-works/pi/releases/download/v0.85.1/pi-windows-x64.zip	45009021	45
