@@ -2,28 +2,28 @@ about:
   description: "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI"
   license: MIT
   homepage: 
-  head: 6160683
+  head: 05c6229
   archived: false
   latestVersion: "v0.85.1"
   latestRelease: "v0.85.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T06:26:55Z
+  collectedAt: 2026-09-09T20:56:14Z
 timeline:
   created: 2025-08-09
-  lastCommit: 2026-09-08
+  lastCommit: 2026-09-09
   lastVersion: 2026-09-05
   lastRelease: 2026-09-05
   lastPrerelease: 
 popularity:
-  star: 103252
+  star: 103466
   watcher: 322
-  fork: 12904
+  fork: 12923
   release: 259
   contributor: 290
-  pullRequest: 3104
-  issue: 5916
+  pullRequest: 3110
+  issue: 5940
 language:
-  TypeScript: 10771871
+  TypeScript: 10782428
   JavaScript: 479211
   C: 36434
   Shell: 29855
@@ -32,79 +32,79 @@ language:
   HTML: 2225
   PowerShell: 1670
   Batchfile: 338
-totalBytes: 11348594
+totalBytes: 11359151
 recent:
   last30d:
     since: 2026-08-10
     release: 5
-    mergedPR: 95
+    mergedPR: 97
     openPR: 42
-    closedIssue: 973
-    openIssue: 40
-    commit: 556
+    closedIssue: 960
+    openIssue: 77
+    commit: 566
   last60d:
     since: 2026-07-11
     release: 16
-    mergedPR: 307
+    mergedPR: 309
     openPR: 57
-    closedIssue: 1815
-    openIssue: 69
-    commit: 1297
+    closedIssue: 1802
+    openIssue: 106
+    commit: 1307
   last90d:
     since: 2026-06-11
     release: 31
-    mergedPR: 360
+    mergedPR: 362
     openPR: 59
-    closedIssue: 2463
-    openIssue: 81
-    commit: 1657
+    closedIssue: 2450
+    openIssue: 118
+    commit: 1667
   last180d:
     since: 2026-03-13
     release: 90
-    mergedPR: 579
+    mergedPR: 581
     openPR: 60
-    closedIssue: 4889
-    openIssue: 93
-    commit: 2885
+    closedIssue: 4876
+    openIssue: 130
+    commit: 2895
   last360d:
     since: 2025-09-14
     release: 100
-    mergedPR: 974
+    mergedPR: 976
     openPR: 60
-    closedIssue: 5823
-    openIssue: 93
-    commit: 5826
+    closedIssue: 5810
+    openIssue: 130
+    commit: 5836
   last720d:
     since: 2024-09-19
     release: 100
-    mergedPR: 974
+    mergedPR: 976
     openPR: 60
-    closedIssue: 5823
-    openIssue: 93
-    commit: 6315
+    closedIssue: 5810
+    openIssue: 130
+    commit: 6325
 total:
   release: 259
-  mergedPR: 974
+  mergedPR: 976
   openPR: 60
-  closedIssue: 5824
-  openIssue: 92
-  commit: 6315
+  closedIssue: 5810
+  openIssue: 130
+  commit: 6325
 ---
 path: /home/runner/.x-repo/github.com/earendil-works/pi
-collectedAt: 2026-09-09T06:27:07Z
+collectedAt: 2026-09-09T20:56:27Z
 loc:
   TypeScript:
-    code: 268385
-    comments: 16481
-    blanks: 33446
-    files: 1386
+    code: 268606
+    comments: 16482
+    blanks: 33485
+    files: 1388
   JavaScript:
     code: 13245
     comments: 228
     blanks: 849
     files: 45
   Json:
-    code: 11493
+    code: 11499
     comments: 0
     blanks: 12
     files: 52
@@ -155,14 +155,14 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 26644
-    blanks: 11790
-    files: 129
+    comments: 32612
+    blanks: 13225
+    files: 134
 total:
-  code: 302589
-  comments: 44276
-  blanks: 47292
-  files: 1637
+  code: 303133
+  comments: 50287
+  blanks: 48811
+  files: 1644
 ---
 
 ---
