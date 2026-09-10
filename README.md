@@ -37,22 +37,22 @@ Total: **297,244** lines of code across **1501** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 103,809 · **Forks**: 12,980 · **Open issues**: 5,986 · **Contributors**: 290
+- **Stars**: 103,829 · **Forks**: 12,984 · **Open issues**: 5,988 · **Contributors**: 290
 
 ## Totals (cumulative)
 
-- **Releases**: 259 · **Merged PRs**: 976 · **Open PRs**: 63 · **Closed issues**: 5847 · **Open issues**: 139 · **Commits**: 6338
+- **Releases**: 259 · **Merged PRs**: 976 · **Open PRs**: 64 · **Closed issues**: 5850 · **Open issues**: 138 · **Commits**: 6345
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 5 | 92 | 40 | 961 | 86 | 579 |
-| last60d | 2026-07-12 | 16 | 309 | 59 | 1822 | 115 | 1320 |
-| 90d | 2026-06-12 | 31 | 360 | 62 | 2469 | 127 | 1680 |
-| last180d | 2026-03-14 | 90 | 577 | 63 | 4893 | 139 | 2908 |
-| 360d | 2025-09-15 | 100 | 976 | 63 | 5847 | 139 | 5849 |
-| last720d | 2024-09-20 | 100 | 976 | 63 | 5847 | 139 | 6338 |
+| 30d | 2026-08-11 | 5 | 92 | 41 | 964 | 85 | 586 |
+| last60d | 2026-07-12 | 16 | 309 | 60 | 1825 | 114 | 1327 |
+| 90d | 2026-06-12 | 31 | 360 | 63 | 2472 | 126 | 1687 |
+| last180d | 2026-03-14 | 90 | 577 | 64 | 4896 | 138 | 2915 |
+| 360d | 2025-09-15 | 100 | 976 | 64 | 5850 | 138 | 5856 |
+| last720d | 2024-09-20 | 100 | 976 | 64 | 5850 | 138 | 6345 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for pi lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T20:17:34Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:34:01Z._
