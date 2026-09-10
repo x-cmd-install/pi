@@ -4,13 +4,25 @@
 
 AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 
-![pi](https://repo.x-cmd.io/pi.svg)
+![pi](https://repo.x-cmd.io/pi.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install pi
 ```
+
+## 代码规模
+
+合计: **297,244** 行代码（覆盖前 5 种语言、共 **1501** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| TypeScript | 269,520 | 16,515 | 33,536 | 1392 |
+| JavaScript | 13,245 | 228 | 849 | 45 |
+| Json | 11,499 | 0 | 12 | 52 |
+| Css | 867 | 24 | 175 | 1 |
+| Sh | 787 | 99 | 120 | 11 |
 
 ## 源代码
 
@@ -20,37 +32,46 @@ x install pi
 ## 发布
 
 - **最新版本**: `v0.85.1` (2026-09-05)
-- **最近提交**: 2026-09-09
+- **最近提交**: 2026-09-10
 - **Release 含资产**: 10 个
-- **发布时间**: 2026-09-05T12:29:01Z
 
 ## 流行度
 
-- **Star**: 103,596 · **Fork**: 12,948 · **开放 issue**: 5,956 · **贡献者**: 290
+- **Star**: 103,809 · **Fork**: 12,980 · **开放 issue**: 5,986 · **贡献者**: 290
 
 ## 累计统计
 
-- **发布数**: 259 · **已合并 PR**: 976 · **开放 PR**: 60 · **已关闭 issue**: 5824 · **开放 issue**: 132 · **提交数**: 6326
+- **发布数**: 259 · **已合并 PR**: 976 · **开放 PR**: 63 · **已关闭 issue**: 5847 · **开放 issue**: 139 · **提交数**: 6338
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 5 | 92 | 37 | 938 | 79 | 567 |
-| 90d | 2026-06-12 | 31 | 360 | 59 | 2446 | 120 | 1668 |
-| 360d | 2025-09-15 | 100 | 976 | 60 | 5824 | 132 | 5837 |
+| 30d | 2026-08-11 | 5 | 92 | 40 | 961 | 86 | 579 |
+| last60d | 2026-07-12 | 16 | 309 | 59 | 1822 | 115 | 1320 |
+| 90d | 2026-06-12 | 31 | 360 | 62 | 2469 | 127 | 1680 |
+| last180d | 2026-03-14 | 90 | 577 | 63 | 4893 | 139 | 2908 |
+| 360d | 2025-09-15 | 100 | 976 | 63 | 5847 | 139 | 5849 |
+| last720d | 2024-09-20 | 100 | 976 | 63 | 5847 | 139 | 6338 |
 
-## 代码规模
+## Release 资产
 
-合计: **296,330** 行代码（覆盖前 5 种语言、共 **1497** 个文件）。
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [pi-0.85.1-source.tar.gz](https://github.com/earendil-works/pi/releases/download/v0.85.1/pi-0.85.1-source.tar.gz) | 6.7 MiB | `native/unknown` |
+| [pi-coding-agent-install-package-lock.json](https://github.com/earendil-works/pi/releases/download/v0.85.1/pi-coding-agent-install-package-lock.json) | 71.0 KiB | `other` |
+| [pi-coding-agent-install-package.json](https://github.com/earendil-works/pi/releases/download/v0.85.1/pi-coding-agent-install-package.json) | 380 B | `other` |
+| [pi-darwin-arm64.tar.gz](https://github.com/earendil-works/pi/releases/download/v0.85.1/pi-darwin-arm64.tar.gz) | 29.6 MiB | `native/darwin/arm64` |
+| [pi-darwin-x64.tar.gz](https://github.com/earendil-works/pi/releases/download/v0.85.1/pi-darwin-x64.tar.gz) | 32.0 MiB | `native/darwin/x64` |
+| [pi-linux-arm64.tar.gz](https://github.com/earendil-works/pi/releases/download/v0.85.1/pi-linux-arm64.tar.gz) | 40.7 MiB | `native/linux/arm64` |
+| [pi-linux-x64.tar.gz](https://github.com/earendil-works/pi/releases/download/v0.85.1/pi-linux-x64.tar.gz) | 40.6 MiB | `native/unknown` |
+| [pi-windows-arm64.zip](https://github.com/earendil-works/pi/releases/download/v0.85.1/pi-windows-arm64.zip) | 41.5 MiB | `native/win/arm64` |
+| [pi-windows-x64.zip](https://github.com/earendil-works/pi/releases/download/v0.85.1/pi-windows-x64.zip) | 42.9 MiB | `native/win/x64` |
+| [SHA256SUMS](https://github.com/earendil-works/pi/releases/download/v0.85.1/SHA256SUMS) | 823 B | `other` |
 
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| TypeScript | 268,606 | 16,482 | 33,485 | 1388 |
-| JavaScript | 13,245 | 228 | 849 | 45 |
-| Json | 11,499 | 0 | 12 | 52 |
-| Css | 867 | 24 | 175 | 1 |
-| Sh | 787 | 99 | 120 | 11 |
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/pi) 上共有 **7** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**2** 个 ⚠️ 使用旧版本。
 
 ## 改进这些数据
 
@@ -61,4 +82,4 @@ pi 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T06:26:41Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:17:34Z._
