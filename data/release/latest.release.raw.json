@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 6985979,
       "digest": "sha256:f7ec92ed4f7b75369198398a3421732eae405183971450bc74cb8544f42d02ca",
-      "download_count": 1348,
+      "download_count": 1502,
       "created_at": "2026-09-05T12:23:41Z",
       "updated_at": "2026-09-05T12:23:42Z",
       "browser_download_url": "https://github.com/earendil-works/pi/releases/download/v0.85.1/pi-0.85.1-source.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 72691,
       "digest": "sha256:48d12884e64315740002a71c9aeed8a07f435163f702f1e3582251607fd11ea3",
-      "download_count": 99,
+      "download_count": 102,
       "created_at": "2026-09-05T12:23:45Z",
       "updated_at": "2026-09-05T12:23:45Z",
       "browser_download_url": "https://github.com/earendil-works/pi/releases/download/v0.85.1/pi-coding-agent-install-package-lock.json"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 380,
       "digest": "sha256:9079bdf9f1b920e228bee48a3f5aae8c2b83361e3a518436616b91b0445ead33",
-      "download_count": 133,
+      "download_count": 140,
       "created_at": "2026-09-05T12:23:45Z",
       "updated_at": "2026-09-05T12:23:45Z",
       "browser_download_url": "https://github.com/earendil-works/pi/releases/download/v0.85.1/pi-coding-agent-install-package.json"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 31035676,
       "digest": "sha256:d5f70e3c0cf7398eac239fd0261ee074d98b7ba7f6b43fe3617f052ed5b79d06",
-      "download_count": 1671,
+      "download_count": 1787,
       "created_at": "2026-09-05T12:23:41Z",
       "updated_at": "2026-09-05T12:23:44Z",
       "browser_download_url": "https://github.com/earendil-works/pi/releases/download/v0.85.1/pi-darwin-arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 33544584,
       "digest": "sha256:adb918b845625f184d8bea408d55eacaf21aa87238793c0f5b4f3b9737bce62b",
-      "download_count": 307,
+      "download_count": 335,
       "created_at": "2026-09-05T12:23:41Z",
       "updated_at": "2026-09-05T12:23:44Z",
       "browser_download_url": "https://github.com/earendil-works/pi/releases/download/v0.85.1/pi-darwin-x64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 42628180,
       "digest": "sha256:042d20ae885ee4f3b102815f3280b962c377b2e9fb44de4037908cc530eae4d4",
-      "download_count": 1268,
+      "download_count": 1391,
       "created_at": "2026-09-05T12:23:41Z",
       "updated_at": "2026-09-05T12:23:45Z",
       "browser_download_url": "https://github.com/earendil-works/pi/releases/download/v0.85.1/pi-linux-arm64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 42560927,
       "digest": "sha256:494e498f47d74d21f40b3386f6a5e921a3d49531a169cab55bbdaca0ea1fe25a",
-      "download_count": 13841,
+      "download_count": 14946,
       "created_at": "2026-09-05T12:23:41Z",
       "updated_at": "2026-09-05T12:23:44Z",
       "browser_download_url": "https://github.com/earendil-works/pi/releases/download/v0.85.1/pi-linux-x64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 43556369,
       "digest": "sha256:b25e96fe64c9f41f75a924c0d36f395abb98d6c6fec0b78aaa0b86926f938bb4",
-      "download_count": 173,
+      "download_count": 182,
       "created_at": "2026-09-05T12:23:44Z",
       "updated_at": "2026-09-05T12:23:46Z",
       "browser_download_url": "https://github.com/earendil-works/pi/releases/download/v0.85.1/pi-windows-arm64.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 45009021,
       "digest": "sha256:002fa95b90d521245b9985d8f168caebc237ad56e7e30b319807dee1b2e17e1c",
-      "download_count": 2927,
+      "download_count": 3202,
       "created_at": "2026-09-05T12:23:42Z",
       "updated_at": "2026-09-05T12:23:44Z",
       "browser_download_url": "https://github.com/earendil-works/pi/releases/download/v0.85.1/pi-windows-x64.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 823,
       "digest": "sha256:0b70b2e422339b7a1277c3addb3705e1239d21ca1c20a17741a7b1c06d7526b0",
-      "download_count": 1133,
+      "download_count": 1354,
       "created_at": "2026-09-05T12:23:45Z",
       "updated_at": "2026-09-05T12:23:45Z",
       "browser_download_url": "https://github.com/earendil-works/pi/releases/download/v0.85.1/SHA256SUMS"
@@ -402,11 +402,11 @@
   "body": "### New Features\n\n- **GPT-6 Astra** — Available through OpenAI API keys and OpenAI Codex subscriptions. See [API Keys](https://github.com/earendil-works/pi/blob/v0.85.1/packages/coding-agent/docs/providers.md#api-keys) and [OpenAI Codex](https://github.com/earendil-works/pi/blob/v0.85.1/packages/coding-agent/docs/providers.md#openai-codex).\n\n### Added\n\n- Added GPT-6 Astra for OpenAI API keys and OpenAI Codex subscriptions.\n- Added five-times-faster mouse wheel scrolling while holding Alt in fullscreen mode ([#9166](https://github.com/earendil-works/pi/pull/9166) by [@xl0](https://github.com/xl0)).\n\n### Fixed\n\n- Fixed configurable save keybindings in the model and thinking selectors ([#9149](https://github.com/earendil-works/pi/pull/9149) by [@rwachtler](https://github.com/rwachtler)).\n- Fixed SDK import failures caused by unintentionally publishing internal experimental code and dependencies in 0.85.0. The experimental `client` and `experimental/plugin` subpaths and server/client commands are now source-only through `pi-test.sh`; the supported local SDK and stdio RPC API are unchanged ([#9132](https://github.com/earendil-works/pi/issues/9132)).\n- Fixed mouse hover changing selection and recentering autocomplete and settings lists, causing clicks to target a different item.\n- Fixed long prompt-cache requests for GPT-5.6+ Responses models to use `prompt_cache_options.ttl: \"30m\"` instead of `prompt_cache_retention: \"24h\"`.\n",
   "reactions": {
     "url": "https://api.github.com/repos/earendil-works/pi/releases/383239302/reactions",
-    "total_count": 45,
+    "total_count": 46,
     "+1": 15,
     "-1": 0,
     "laugh": 0,
-    "hooray": 14,
+    "hooray": 15,
     "confused": 0,
     "heart": 13,
     "rocket": 3,
