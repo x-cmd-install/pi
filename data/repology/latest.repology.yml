@@ -1,3 +1,18 @@
+- repo: alt_p11
+  srcname: pi
+  binnames:
+    - pi
+  visiblename: pi
+  version: 0.85.1
+  origversion: 1:0.85.1-alt2
+  status: newest
+  summary: Terminal AI coding agent with read, bash, edit and write tools
+  maintainers:
+    - rider@altlinux.org
+  licenses:
+    - MIT
+  categories:
+    - Development/Tools
 - repo: altsisyphus
   srcname: pi
   binnames:
