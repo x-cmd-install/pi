@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 8074198,
       "digest": "sha256:793949d8d9e56629346e4bb9a6bf5fc17952ef746a1bf4f3185f8e960e806fcf",
-      "download_count": 429,
+      "download_count": 658,
       "created_at": "2026-09-22T19:30:55Z",
       "updated_at": "2026-09-22T19:30:56Z",
       "browser_download_url": "https://github.com/earendil-works/pi/releases/download/v0.87.1/pi-0.87.1-source.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 62265,
       "digest": "sha256:af912bfedb09412706cb8aaf77cc07154829939d431f1389ce95b4f204ea6fe6",
-      "download_count": 48,
+      "download_count": 58,
       "created_at": "2026-09-22T19:30:59Z",
       "updated_at": "2026-09-22T19:31:00Z",
       "browser_download_url": "https://github.com/earendil-works/pi/releases/download/v0.87.1/pi-coding-agent-install-package-lock.json"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 319,
       "digest": "sha256:03fa52df3885382c2fe5d318d61ca5029322a4eb6fd0c09fbb84e5a86126e9c9",
-      "download_count": 60,
+      "download_count": 73,
       "created_at": "2026-09-22T19:30:59Z",
       "updated_at": "2026-09-22T19:31:00Z",
       "browser_download_url": "https://github.com/earendil-works/pi/releases/download/v0.87.1/pi-coding-agent-install-package.json"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 30563988,
       "digest": "sha256:4f8d288b78c9768d3a4ac6f61f06cd34394b82ac17d5b42d1e44a437add401b7",
-      "download_count": 1104,
+      "download_count": 1343,
       "created_at": "2026-09-22T19:30:55Z",
       "updated_at": "2026-09-22T19:30:58Z",
       "browser_download_url": "https://github.com/earendil-works/pi/releases/download/v0.87.1/pi-darwin-arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 33033993,
       "digest": "sha256:01d8ee28d7114fec4f4eeedbb7561f790853040e9bfbdeebe79437ab66ea51f5",
-      "download_count": 256,
+      "download_count": 315,
       "created_at": "2026-09-22T19:30:55Z",
       "updated_at": "2026-09-22T19:30:59Z",
       "browser_download_url": "https://github.com/earendil-works/pi/releases/download/v0.87.1/pi-darwin-x64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 42217308,
       "digest": "sha256:364b4a9f8491450b27a4857d4e3c780dbaf696790821c176a873e860cbbc3b89",
-      "download_count": 840,
+      "download_count": 1159,
       "created_at": "2026-09-22T19:30:55Z",
       "updated_at": "2026-09-22T19:30:59Z",
       "browser_download_url": "https://github.com/earendil-works/pi/releases/download/v0.87.1/pi-linux-arm64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 42120827,
       "digest": "sha256:80d78dd62d50049a006b981d994c61255bcc10e730b0c278d4ea0a755909764c",
-      "download_count": 8079,
+      "download_count": 10489,
       "created_at": "2026-09-22T19:30:55Z",
       "updated_at": "2026-09-22T19:30:59Z",
       "browser_download_url": "https://github.com/earendil-works/pi/releases/download/v0.87.1/pi-linux-x64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 43250108,
       "digest": "sha256:2e0d544999a765018ee5c2ff1a8b1a7e0f5d5b6b1e00b32d8c025d6c1dbcc833",
-      "download_count": 84,
+      "download_count": 110,
       "created_at": "2026-09-22T19:30:59Z",
       "updated_at": "2026-09-22T19:31:00Z",
       "browser_download_url": "https://github.com/earendil-works/pi/releases/download/v0.87.1/pi-windows-arm64.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 44615504,
       "digest": "sha256:aab2ba67baf8ff97a52d05b62d88e9e65a840c6ea8fa1029a28d62d210d4e5fc",
-      "download_count": 1664,
+      "download_count": 1997,
       "created_at": "2026-09-22T19:30:57Z",
       "updated_at": "2026-09-22T19:30:59Z",
       "browser_download_url": "https://github.com/earendil-works/pi/releases/download/v0.87.1/pi-windows-x64.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 823,
       "digest": "sha256:c1a5779f9a47a7c490fc182091ae83795d673bb64d640374bb65a2ffd278e133",
-      "download_count": 801,
+      "download_count": 1022,
       "created_at": "2026-09-22T19:31:00Z",
       "updated_at": "2026-09-22T19:31:00Z",
       "browser_download_url": "https://github.com/earendil-works/pi/releases/download/v0.87.1/SHA256SUMS"
