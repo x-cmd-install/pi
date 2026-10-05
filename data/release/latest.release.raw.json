@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 7583538,
       "digest": "sha256:fee98d8778c42432906066728b7e6325e315a0df6c12177ce61fc4f7262f0473",
-      "download_count": 41,
+      "download_count": 160,
       "created_at": "2026-10-04T00:43:58Z",
       "updated_at": "2026-10-04T00:43:59Z",
       "browser_download_url": "https://github.com/earendil-works/pi/releases/download/v1.0.2/pi-1.0.2-source.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 63566,
       "digest": "sha256:b8e9e6a191bcf1e6e3ff8dafe5c0c9042b48e0087cd6d6816dcaa051222ba680",
-      "download_count": 12,
+      "download_count": 151,
       "created_at": "2026-10-04T00:44:00Z",
       "updated_at": "2026-10-04T00:44:00Z",
       "browser_download_url": "https://github.com/earendil-works/pi/releases/download/v1.0.2/pi-coding-agent-install-package-lock.json"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 317,
       "digest": "sha256:491cb1ec4fba98d9547b037cd9dea48ae0bba651a0a80d67dd1660705b60f1c5",
-      "download_count": 13,
+      "download_count": 126,
       "created_at": "2026-10-04T00:44:00Z",
       "updated_at": "2026-10-04T00:44:00Z",
       "browser_download_url": "https://github.com/earendil-works/pi/releases/download/v1.0.2/pi-coding-agent-install-package.json"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 31007294,
       "digest": "sha256:c2f035ea4adba87916f005c99515e3c91674b11d16ba75d95d0881e4781aa3bb",
-      "download_count": 96,
+      "download_count": 494,
       "created_at": "2026-10-04T00:43:58Z",
       "updated_at": "2026-10-04T00:43:59Z",
       "browser_download_url": "https://github.com/earendil-works/pi/releases/download/v1.0.2/pi-darwin-arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 33468700,
       "digest": "sha256:d54be8df33ab6a2f3457bd7de37edc947050ac4a7f043456d37e03afd15684de",
-      "download_count": 29,
+      "download_count": 95,
       "created_at": "2026-10-04T00:43:58Z",
       "updated_at": "2026-10-04T00:43:59Z",
       "browser_download_url": "https://github.com/earendil-works/pi/releases/download/v1.0.2/pi-darwin-x64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 42656944,
       "digest": "sha256:3321ccdc3ff38d6c52274bdab28246e06434618d1988a54e99cce45e535a013c",
-      "download_count": 63,
+      "download_count": 300,
       "created_at": "2026-10-04T00:43:58Z",
       "updated_at": "2026-10-04T00:43:59Z",
       "browser_download_url": "https://github.com/earendil-works/pi/releases/download/v1.0.2/pi-linux-arm64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 42560818,
       "digest": "sha256:0d7687a6a9fcbaa88ff664cb6b28683ce9ee3e028931b55eb48a70ae9a285d18",
-      "download_count": 892,
+      "download_count": 4438,
       "created_at": "2026-10-04T00:43:58Z",
       "updated_at": "2026-10-04T00:43:59Z",
       "browser_download_url": "https://github.com/earendil-works/pi/releases/download/v1.0.2/pi-linux-x64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 43683455,
       "digest": "sha256:4eb7c89f12c523d28069fed66f2ceb2466f909e41c87a6367a52728cec938b15",
-      "download_count": 23,
+      "download_count": 68,
       "created_at": "2026-10-04T00:43:59Z",
       "updated_at": "2026-10-04T00:44:01Z",
       "browser_download_url": "https://github.com/earendil-works/pi/releases/download/v1.0.2/pi-windows-arm64.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 45048394,
       "digest": "sha256:37a2ee3c5222a73efc78b49f571748f11a74f4dbe160da3030a404da71f464e7",
-      "download_count": 195,
+      "download_count": 834,
       "created_at": "2026-10-04T00:43:59Z",
       "updated_at": "2026-10-04T00:44:00Z",
       "browser_download_url": "https://github.com/earendil-works/pi/releases/download/v1.0.2/pi-windows-x64.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 822,
       "digest": "sha256:d5193f68a5e1438ed1423637b97318243f58e0ecd2a4c97a1344349cb655051d",
-      "download_count": 58,
+      "download_count": 394,
       "created_at": "2026-10-04T00:44:00Z",
       "updated_at": "2026-10-04T00:44:00Z",
       "browser_download_url": "https://github.com/earendil-works/pi/releases/download/v1.0.2/SHA256SUMS"
@@ -402,14 +402,14 @@
   "body": "### New Features\n\n- **Sampling by thinking level** — `samplingParamsByThinkingLevel` in `models.json` sets sampling parameters such as `temperature` and `top_p` for each thinking level on OpenAI-compatible APIs. See [Configure sampling by thinking level](https://github.com/earendil-works/pi/blob/v1.0.2/packages/coding-agent/docs/models.md#configure-sampling-by-thinking-level).\n\n### Added\n\n- Added `samplingParamsByThinkingLevel` to `models.json` for per-thinking-level sampling parameter overrides on OpenAI-compatible APIs. See [Configure sampling by thinking level](https://github.com/earendil-works/pi/blob/v1.0.2/packages/coding-agent/docs/models.md#configure-sampling-by-thinking-level) ([#9776](https://github.com/earendil-works/pi/pull/9776) by [@mrexodia](https://github.com/mrexodia))\n",
   "reactions": {
     "url": "https://api.github.com/repos/earendil-works/pi/releases/402755206/reactions",
-    "total_count": 21,
-    "+1": 6,
+    "total_count": 35,
+    "+1": 14,
     "-1": 0,
     "laugh": 2,
-    "hooray": 2,
+    "hooray": 3,
     "confused": 0,
-    "heart": 3,
-    "rocket": 6,
+    "heart": 6,
+    "rocket": 8,
     "eyes": 2
   }
 }
