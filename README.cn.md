@@ -14,14 +14,14 @@ x install pi
 
 ## 代码洞察
 
-合计: **371,869** 行代码（覆盖前 5 种语言、共 **1791** 个文件）。
+合计: **358,560** 行代码（覆盖前 5 种语言、共 **1675** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 341,246 | 23,913 | 38,922 | 1655 |
-| Json | 12,807 | 0 | 0 | 60 |
-| JavaScript | 10,531 | 264 | 844 | 60 |
-| Rust | 4,058 | 75 | 293 | 15 |
+| TypeScript | 328,453 | 24,531 | 37,783 | 1550 |
+| Json | 12,047 | 0 | 0 | 50 |
+| JavaScript | 10,441 | 265 | 834 | 58 |
+| Rust | 4,395 | 78 | 313 | 16 |
 | Css | 875 | 24 | 177 | 1 |
 
 ## 源代码
@@ -31,43 +31,43 @@ x install pi
 
 ## 发布
 
-- **最新版本**: `v1.1.0` (2026-10-07)
+- **最新版本**: `v1.2.0` (2026-10-12)
 - **最近提交**: 2026-10-12
 - **Release 含资产**: 10 个
 
 ## 流行度
 
-- **Star**: 114,426 · **Fork**: 14,574 · **开放 issue**: 7,028 · **贡献者**: 296
+- **Star**: 114,749 · **Fork**: 14,616 · **开放 issue**: 7,074 · **贡献者**: 296
 
 ## 累计统计
 
-- **发布数**: 272 · **已合并 PR**: 1045 · **开放 PR**: 85 · **已关闭 issue**: 6792 · **开放 issue**: 236 · **提交数**: 6866
+- **发布数**: 273 · **已合并 PR**: 1047 · **开放 PR**: 82 · **已关闭 issue**: 6835 · **开放 issue**: 239 · **提交数**: 6906
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 13 | 65 | 34 | 851 | 132 | 0 |
-| last60d | 2026-08-13 | 18 | 159 | 63 | 1828 | 188 | 0 |
-| 90d | 2026-07-14 | 29 | 367 | 81 | 2713 | 212 | 0 |
-| last180d | 2026-04-15 | 81 | 584 | 85 | 5106 | 235 | 0 |
-| 360d | 2025-10-17 | 100 | 1045 | 85 | 6792 | 236 | 0 |
-| last720d | 2024-10-22 | 100 | 1045 | 85 | 6792 | 236 | 6866 |
+| 30d | 2026-09-13 | 14 | 66 | 31 | 876 | 133 | 490 |
+| last60d | 2026-08-14 | 19 | 157 | 57 | 1832 | 191 | 931 |
+| 90d | 2026-07-15 | 29 | 367 | 78 | 2731 | 215 | 1822 |
+| last180d | 2026-04-16 | 81 | 581 | 82 | 5110 | 238 | 3029 |
+| 360d | 2025-10-18 | 100 | 1047 | 82 | 6835 | 239 | 6279 |
+| last720d | 2024-10-23 | 100 | 1047 | 82 | 6835 | 239 | 6906 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [pi-1.1.0-source.tar.gz](https://github.com/earendil-works/pi/releases/download/v1.1.0/pi-1.1.0-source.tar.gz) | 7.4 MiB | `native/unknown` |
-| [pi-coding-agent-install-package-lock.json](https://github.com/earendil-works/pi/releases/download/v1.1.0/pi-coding-agent-install-package-lock.json) | 62.1 KiB | `other` |
-| [pi-coding-agent-install-package.json](https://github.com/earendil-works/pi/releases/download/v1.1.0/pi-coding-agent-install-package.json) | 317 B | `other` |
-| [pi-darwin-arm64.tar.gz](https://github.com/earendil-works/pi/releases/download/v1.1.0/pi-darwin-arm64.tar.gz) | 29.6 MiB | `native/darwin/arm64` |
-| [pi-darwin-x64.tar.gz](https://github.com/earendil-works/pi/releases/download/v1.1.0/pi-darwin-x64.tar.gz) | 31.9 MiB | `native/darwin/x64` |
-| [pi-linux-arm64.tar.gz](https://github.com/earendil-works/pi/releases/download/v1.1.0/pi-linux-arm64.tar.gz) | 40.7 MiB | `native/linux/arm64` |
-| [pi-linux-x64.tar.gz](https://github.com/earendil-works/pi/releases/download/v1.1.0/pi-linux-x64.tar.gz) | 40.6 MiB | `native/unknown` |
-| [pi-windows-arm64.zip](https://github.com/earendil-works/pi/releases/download/v1.1.0/pi-windows-arm64.zip) | 41.7 MiB | `native/win/arm64` |
-| [pi-windows-x64.zip](https://github.com/earendil-works/pi/releases/download/v1.1.0/pi-windows-x64.zip) | 43.0 MiB | `native/win/x64` |
-| [SHA256SUMS](https://github.com/earendil-works/pi/releases/download/v1.1.0/SHA256SUMS) | 822 B | `other` |
+| [pi-1.2.0-source.tar.gz](https://github.com/earendil-works/pi/releases/download/v1.2.0/pi-1.2.0-source.tar.gz) | 7.5 MiB | `native/unknown` |
+| [pi-coding-agent-install-package-lock.json](https://github.com/earendil-works/pi/releases/download/v1.2.0/pi-coding-agent-install-package-lock.json) | 49.8 KiB | `other` |
+| [pi-coding-agent-install-package.json](https://github.com/earendil-works/pi/releases/download/v1.2.0/pi-coding-agent-install-package.json) | 317 B | `other` |
+| [pi-darwin-arm64.tar.gz](https://github.com/earendil-works/pi/releases/download/v1.2.0/pi-darwin-arm64.tar.gz) | 29.6 MiB | `native/darwin/arm64` |
+| [pi-darwin-x64.tar.gz](https://github.com/earendil-works/pi/releases/download/v1.2.0/pi-darwin-x64.tar.gz) | 32.0 MiB | `native/darwin/x64` |
+| [pi-linux-arm64.tar.gz](https://github.com/earendil-works/pi/releases/download/v1.2.0/pi-linux-arm64.tar.gz) | 40.7 MiB | `native/linux/arm64` |
+| [pi-linux-x64.tar.gz](https://github.com/earendil-works/pi/releases/download/v1.2.0/pi-linux-x64.tar.gz) | 40.6 MiB | `native/unknown` |
+| [pi-windows-arm64.zip](https://github.com/earendil-works/pi/releases/download/v1.2.0/pi-windows-arm64.zip) | 41.7 MiB | `native/win/arm64` |
+| [pi-windows-x64.zip](https://github.com/earendil-works/pi/releases/download/v1.2.0/pi-windows-x64.zip) | 43.0 MiB | `native/win/x64` |
+| [SHA256SUMS](https://github.com/earendil-works/pi/releases/download/v1.2.0/SHA256SUMS) | 822 B | `other` |
 
 ## 改进这些数据
 
@@ -78,4 +78,4 @@ pi 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261012.yml` · 2026-10-12T07:28:55Z._
+_数据快照: `data/card/261013.yml` · 2026-10-13T08:22:55Z._
