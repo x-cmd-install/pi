@@ -1,0 +1,190 @@
+about:
+  description: "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI"
+  license: MIT
+  homepage: 
+  head: 7d75a0e
+  archived: false
+  latestVersion: "v1.2.0"
+  latestRelease: "v1.2.0"
+  latestPrerelease: ""
+  collectedAt: 2026-10-13T08:22:20Z
+timeline:
+  created: 2025-08-09
+  lastCommit: 2026-10-12
+  lastVersion: 2026-10-12
+  lastRelease: 2026-10-12
+  lastPrerelease: 
+popularity:
+  star: 114749
+  watcher: 346
+  fork: 14616
+  release: 273
+  contributor: 296
+  pullRequest: 3404
+  issue: 7074
+language:
+  TypeScript: 13737010
+  JavaScript: 385268
+  C: 37872
+  Shell: 29536
+  CSS: 22952
+  HTML: 14006
+  Nix: 6512
+  Objective-C: 5876
+  Dockerfile: 1970
+  PowerShell: 1737
+  Batchfile: 338
+totalBytes: 14243077
+recent:
+  last30d:
+    since: 2026-09-13
+    release: 14
+    mergedPR: 66
+    openPR: 31
+    closedIssue: 876
+    openIssue: 133
+    commit: 490
+  last60d:
+    since: 2026-08-14
+    release: 19
+    mergedPR: 157
+    openPR: 57
+    closedIssue: 1832
+    openIssue: 191
+    commit: 931
+  last90d:
+    since: 2026-07-15
+    release: 29
+    mergedPR: 367
+    openPR: 78
+    closedIssue: 2731
+    openIssue: 215
+    commit: 1822
+  last180d:
+    since: 2026-04-16
+    release: 81
+    mergedPR: 581
+    openPR: 82
+    closedIssue: 5110
+    openIssue: 238
+    commit: 3029
+  last360d:
+    since: 2025-10-18
+    release: 100
+    mergedPR: 1047
+    openPR: 82
+    closedIssue: 6835
+    openIssue: 239
+    commit: 6279
+  last720d:
+    since: 2024-10-23
+    release: 100
+    mergedPR: 1047
+    openPR: 82
+    closedIssue: 6835
+    openIssue: 239
+    commit: 6906
+total:
+  release: 273
+  mergedPR: 1047
+  openPR: 82
+  closedIssue: 6835
+  openIssue: 239
+  commit: 6906
+---
+path: /home/runner/.x-repo/github.com/earendil-works/pi
+collectedAt: 2026-10-13T08:22:38Z
+loc:
+  TypeScript:
+    code: 328453
+    comments: 24531
+    blanks: 37783
+    files: 1550
+  Json:
+    code: 12047
+    comments: 0
+    blanks: 0
+    files: 50
+  JavaScript:
+    code: 10441
+    comments: 265
+    blanks: 834
+    files: 58
+  Rust:
+    code: 4395
+    comments: 78
+    blanks: 313
+    files: 16
+  Css:
+    code: 875
+    comments: 24
+    blanks: 177
+    files: 1
+  Sh:
+    code: 754
+    comments: 101
+    blanks: 113
+    files: 11
+  C:
+    code: 726
+    comments: 23
+    blanks: 79
+    files: 5
+  CHeader:
+    code: 333
+    comments: 6
+    blanks: 30
+    files: 3
+  Nix:
+    code: 193
+    comments: 10
+    blanks: 27
+    files: 2
+  ObjectiveC:
+    code: 125
+    comments: 0
+    blanks: 7
+    files: 1
+  Html:
+    code: 77
+    comments: 3
+    blanks: 4
+    files: 2
+  PowerShell:
+    code: 61
+    comments: 1
+    blanks: 6
+    files: 1
+  Dockerfile:
+    code: 40
+    comments: 7
+    blanks: 4
+    files: 2
+  Toml:
+    code: 29
+    comments: 0
+    blanks: 4
+    files: 2
+  Batch:
+    code: 11
+    comments: 0
+    blanks: 3
+    files: 1
+  Markdown:
+    code: 0
+    comments: 21017
+    blanks: 8307
+    files: 126
+  Text:
+    code: 0
+    comments: 17
+    blanks: 4
+    files: 1
+total:
+  code: 362199
+  comments: 46593
+  blanks: 48028
+  files: 1832
+---
+
+---
