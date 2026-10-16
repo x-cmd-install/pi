@@ -14,13 +14,13 @@ x install pi
 
 ## Code insight
 
-Total: **363,587** lines of code across **1693** files in the top 5 languages.
+Total: **364,488** lines of code across **1698** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 333,383 | 25,286 | 38,089 | 1567 |
-| Json | 12,069 | 0 | 0 | 50 |
-| JavaScript | 10,514 | 267 | 839 | 59 |
+| TypeScript | 334,117 | 25,347 | 38,143 | 1570 |
+| Json | 12,076 | 0 | 0 | 50 |
+| JavaScript | 10,674 | 328 | 856 | 61 |
 | Rust | 4,395 | 78 | 313 | 16 |
 | Css | 875 | 24 | 177 | 1 |
 
@@ -31,43 +31,43 @@ Total: **363,587** lines of code across **1693** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.2.0` (2026-10-12)
-- **Last commit**: 2026-10-14
+- **Latest**: `v1.3.0` (2026-10-15)
+- **Last commit**: 2026-10-15
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 115,243 · **Forks**: 14,680 · **Open issues**: 7,150 · **Contributors**: 296
+- **Stars**: 115,539 · **Forks**: 14,724 · **Open issues**: 7,191 · **Contributors**: 296
 
 ## Totals (cumulative)
 
-- **Releases**: 273 · **Merged PRs**: 1052 · **Open PRs**: 85 · **Closed issues**: 6893 · **Open issues**: 257 · **Commits**: 6944
+- **Releases**: 274 · **Merged PRs**: 1056 · **Open PRs**: 85 · **Closed issues**: 6926 · **Open issues**: 265 · **Commits**: 6963
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 14 | 67 | 26 | 876 | 147 | 528 |
-| last60d | 2026-08-16 | 18 | 161 | 51 | 1836 | 207 | 969 |
-| 90d | 2026-07-17 | 26 | 361 | 74 | 2715 | 233 | 1860 |
-| last180d | 2026-04-18 | 76 | 579 | 78 | 5105 | 256 | 3067 |
-| 360d | 2025-10-20 | 100 | 1052 | 78 | 6893 | 257 | 6317 |
-| last720d | 2024-10-25 | 100 | 1052 | 78 | 6893 | 257 | 6944 |
+| 30d | 2026-09-16 | 15 | 69 | 26 | 878 | 154 | 547 |
+| last60d | 2026-08-17 | 19 | 152 | 48 | 1831 | 215 | 988 |
+| 90d | 2026-07-18 | 27 | 364 | 74 | 2733 | 241 | 1879 |
+| last180d | 2026-04-19 | 77 | 577 | 78 | 5117 | 264 | 3086 |
+| 360d | 2025-10-21 | 100 | 1056 | 78 | 6926 | 265 | 6336 |
+| last720d | 2024-10-26 | 100 | 1056 | 78 | 6926 | 265 | 6963 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [pi-1.2.0-source.tar.gz](https://github.com/earendil-works/pi/releases/download/v1.2.0/pi-1.2.0-source.tar.gz) | 7.5 MiB | `native/unknown` |
-| [pi-coding-agent-install-package-lock.json](https://github.com/earendil-works/pi/releases/download/v1.2.0/pi-coding-agent-install-package-lock.json) | 49.8 KiB | `other` |
-| [pi-coding-agent-install-package.json](https://github.com/earendil-works/pi/releases/download/v1.2.0/pi-coding-agent-install-package.json) | 317 B | `other` |
-| [pi-darwin-arm64.tar.gz](https://github.com/earendil-works/pi/releases/download/v1.2.0/pi-darwin-arm64.tar.gz) | 29.6 MiB | `native/darwin/arm64` |
-| [pi-darwin-x64.tar.gz](https://github.com/earendil-works/pi/releases/download/v1.2.0/pi-darwin-x64.tar.gz) | 32.0 MiB | `native/darwin/x64` |
-| [pi-linux-arm64.tar.gz](https://github.com/earendil-works/pi/releases/download/v1.2.0/pi-linux-arm64.tar.gz) | 40.7 MiB | `native/linux/arm64` |
-| [pi-linux-x64.tar.gz](https://github.com/earendil-works/pi/releases/download/v1.2.0/pi-linux-x64.tar.gz) | 40.6 MiB | `native/unknown` |
-| [pi-windows-arm64.zip](https://github.com/earendil-works/pi/releases/download/v1.2.0/pi-windows-arm64.zip) | 41.7 MiB | `native/win/arm64` |
-| [pi-windows-x64.zip](https://github.com/earendil-works/pi/releases/download/v1.2.0/pi-windows-x64.zip) | 43.0 MiB | `native/win/x64` |
-| [SHA256SUMS](https://github.com/earendil-works/pi/releases/download/v1.2.0/SHA256SUMS) | 822 B | `other` |
+| [pi-1.3.0-source.tar.gz](https://github.com/earendil-works/pi/releases/download/v1.3.0/pi-1.3.0-source.tar.gz) | 7.6 MiB | `native/unknown` |
+| [pi-coding-agent-install-package-lock.json](https://github.com/earendil-works/pi/releases/download/v1.3.0/pi-coding-agent-install-package-lock.json) | 49.8 KiB | `other` |
+| [pi-coding-agent-install-package.json](https://github.com/earendil-works/pi/releases/download/v1.3.0/pi-coding-agent-install-package.json) | 317 B | `other` |
+| [pi-darwin-arm64.tar.gz](https://github.com/earendil-works/pi/releases/download/v1.3.0/pi-darwin-arm64.tar.gz) | 29.6 MiB | `native/darwin/arm64` |
+| [pi-darwin-x64.tar.gz](https://github.com/earendil-works/pi/releases/download/v1.3.0/pi-darwin-x64.tar.gz) | 32.0 MiB | `native/darwin/x64` |
+| [pi-linux-arm64.tar.gz](https://github.com/earendil-works/pi/releases/download/v1.3.0/pi-linux-arm64.tar.gz) | 40.7 MiB | `native/linux/arm64` |
+| [pi-linux-x64.tar.gz](https://github.com/earendil-works/pi/releases/download/v1.3.0/pi-linux-x64.tar.gz) | 40.6 MiB | `native/unknown` |
+| [pi-windows-arm64.zip](https://github.com/earendil-works/pi/releases/download/v1.3.0/pi-windows-arm64.zip) | 41.7 MiB | `native/win/arm64` |
+| [pi-windows-x64.zip](https://github.com/earendil-works/pi/releases/download/v1.3.0/pi-windows-x64.zip) | 43.0 MiB | `native/win/x64` |
+| [SHA256SUMS](https://github.com/earendil-works/pi/releases/download/v1.3.0/SHA256SUMS) | 822 B | `other` |
 
 ## Improve this data
 
@@ -78,4 +78,4 @@ Install metadata for pi lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T06:01:32Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T05:56:19Z._
