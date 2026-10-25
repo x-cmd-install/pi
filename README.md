@@ -14,13 +14,13 @@ x install pi
 
 ## Code insight
 
-Total: **378,886** lines of code across **1769** files in the top 5 languages.
+Total: **384,244** lines of code across **1783** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 347,334 | 26,371 | 39,085 | 1638 |
-| Json | 12,851 | 0 | 0 | 50 |
-| JavaScript | 11,071 | 368 | 899 | 64 |
+| TypeScript | 352,370 | 26,975 | 39,504 | 1651 |
+| Json | 13,173 | 0 | 0 | 51 |
+| JavaScript | 11,071 | 371 | 899 | 64 |
 | Rust | 4,395 | 78 | 313 | 16 |
 | Css | 882 | 24 | 179 | 1 |
 
@@ -32,27 +32,27 @@ Total: **378,886** lines of code across **1769** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.4.0` (2026-10-21)
-- **Last commit**: 2026-10-23
+- **Last commit**: 2026-10-24
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 117,476 · **Forks**: 15,022 · **Open issues**: 7,421 · **Contributors**: 303
+- **Stars**: 117,648 · **Forks**: 15,062 · **Open issues**: 7,446 · **Contributors**: 303
 
 ## Totals (cumulative)
 
-- **Releases**: 275 · **Merged PRs**: 1104 · **Open PRs**: 84 · **Closed issues**: 7135 · **Open issues**: 286 · **Commits**: 7094
+- **Releases**: 275 · **Merged PRs**: 1104 · **Open PRs**: 88 · **Closed issues**: 7161 · **Open issues**: 285 · **Commits**: 7104
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 12 | 89 | 26 | 857 | 162 | 559 |
-| last60d | 2026-08-25 | 19 | 169 | 45 | 1785 | 236 | 974 |
-| 90d | 2026-07-26 | 24 | 362 | 73 | 2715 | 260 | 1895 |
-| last180d | 2026-04-27 | 72 | 596 | 78 | 5009 | 285 | 3064 |
-| 360d | 2025-10-29 | 100 | 1104 | 78 | 7135 | 286 | 6456 |
-| last720d | 2024-11-03 | 100 | 1104 | 78 | 7135 | 286 | 7094 |
+| 30d | 2026-09-25 | 12 | 86 | 29 | 860 | 161 | 569 |
+| last60d | 2026-08-26 | 19 | 165 | 49 | 1779 | 234 | 984 |
+| 90d | 2026-07-27 | 24 | 355 | 77 | 2714 | 259 | 1906 |
+| last180d | 2026-04-28 | 69 | 593 | 82 | 4986 | 284 | 3076 |
+| 360d | 2025-10-30 | 100 | 1104 | 82 | 7161 | 285 | 6468 |
+| last720d | 2024-11-04 | 100 | 1104 | 82 | 7161 | 285 | 7104 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for pi lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T05:50:56Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:58:36Z._
