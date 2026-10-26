@@ -33,7 +33,7 @@
   binname: pi
   visiblename: pi
   version: 1.4.0
-  origversion: 1.4.0-1
+  origversion: 1.4.0-2
   status: newest
   summary: AI coding agent for the terminal — minimal, extensible and optimized for tool use
   maintainers:
@@ -57,9 +57,9 @@
 - repo: chocolatey
   binname: pi
   visiblename: pi
-  version: 1.3.0
+  version: 1.4.0
   origversion: null
-  status: outdated
+  status: newest
   summary: 'AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI'
 - repo: openmandriva_cooker
   subrepo: main/release
