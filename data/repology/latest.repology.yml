@@ -1,3 +1,19 @@
+- repo: openmandriva_cooker
+  subrepo: main/release
+  srcname: pi
+  binnames:
+    - pi
+  visiblename: pi
+  version: 1.5.0
+  origversion: 1.5.0-1
+  status: newest
+  summary: Minimal, extensible agent harness
+  maintainers:
+    - bero@lindev.ch
+  licenses:
+    - MIT
+  categories:
+    - Development/Other
 - repo: alt_p11
   srcname: pi
   binnames:
@@ -61,22 +77,6 @@
   origversion: null
   status: outdated
   summary: 'AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI'
-- repo: openmandriva_cooker
-  subrepo: main/release
-  srcname: pi
-  binnames:
-    - pi
-  visiblename: pi
-  version: 1.5.0
-  origversion: 1.5.0-1
-  status: newest
-  summary: Minimal, extensible agent harness
-  maintainers:
-    - bero@lindev.ch
-  licenses:
-    - MIT
-  categories:
-    - Development/Other
 - repo: spack
   srcname: pi
   visiblename: pi
@@ -91,9 +91,9 @@
   srcname: pi
   binname: pi
   visiblename: pi
-  version: 1.4.0
-  origversion: 1.4.0-1.fcrawhide
-  status: outdated
+  version: 1.5.0
+  origversion: 1.5.0-1.fcrawhide
+  status: newest
   summary: Coding agent CLI with read, bash, edit, write tools and session management
   maintainers:
     - june@fyralabs.com
@@ -105,9 +105,9 @@
   srcname: pi
   binname: pi
   visiblename: pi
-  version: 1.4.0
-  origversion: 1.4.0-1.fcrawhide
-  status: outdated
+  version: 1.5.0
+  origversion: 1.5.0-1.fcrawhide
+  status: newest
   summary: Coding agent CLI with read, bash, edit, write tools and session management
   maintainers:
     - june@fyralabs.com
