@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 14832880,
       "digest": "sha256:da14b72e5d674959b64fc541e4a9241ac9fcdfa243431479119d3edb598b2231",
-      "download_count": 101,
+      "download_count": 208,
       "created_at": "2026-11-10T12:04:37Z",
       "updated_at": "2026-11-10T12:04:38Z",
       "browser_download_url": "https://github.com/earendil-works/pi/releases/download/v1.5.2/pi-1.5.2-source.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 52064,
       "digest": "sha256:57e3b475e52f630cf903f73b0d2a02c405875af61ce4a845f481dcc798f58005",
-      "download_count": 794,
+      "download_count": 1882,
       "created_at": "2026-11-10T12:04:41Z",
       "updated_at": "2026-11-10T12:04:42Z",
       "browser_download_url": "https://github.com/earendil-works/pi/releases/download/v1.5.2/pi-coding-agent-install-package-lock.json"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 317,
       "digest": "sha256:6c433244d03aa280f1aa298035ba59f54afd0c486566771ef83cc5aef318c4cc",
-      "download_count": 799,
+      "download_count": 1891,
       "created_at": "2026-11-10T12:04:41Z",
       "updated_at": "2026-11-10T12:04:42Z",
       "browser_download_url": "https://github.com/earendil-works/pi/releases/download/v1.5.2/pi-coding-agent-install-package.json"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 48068183,
       "digest": "sha256:56b5e194d485ced555667b8ba3276157a8272e9ecde9e001e428af80985bdd9b",
-      "download_count": 1239,
+      "download_count": 2322,
       "created_at": "2026-11-10T12:04:37Z",
       "updated_at": "2026-11-10T12:04:42Z",
       "browser_download_url": "https://github.com/earendil-works/pi/releases/download/v1.5.2/pi-darwin-arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 50580945,
       "digest": "sha256:f997a088613514ac97d913aeea7642094d84fe6d46854ff7e64e2c12e536dc50",
-      "download_count": 77,
+      "download_count": 159,
       "created_at": "2026-11-10T12:04:37Z",
       "updated_at": "2026-11-10T12:04:40Z",
       "browser_download_url": "https://github.com/earendil-works/pi/releases/download/v1.5.2/pi-darwin-x64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 58790707,
       "digest": "sha256:42805cd5615952fcbbfc9c56b04f8feb84395134952e169a6cdc8d7676975666",
-      "download_count": 511,
+      "download_count": 1045,
       "created_at": "2026-11-10T12:04:37Z",
       "updated_at": "2026-11-10T12:04:41Z",
       "browser_download_url": "https://github.com/earendil-works/pi/releases/download/v1.5.2/pi-linux-arm64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 58922566,
       "digest": "sha256:811c6f2c9e7aaee252b5404252e556fb713aa209c1f7f924226aa77d4ef70cb5",
-      "download_count": 9889,
+      "download_count": 16699,
       "created_at": "2026-11-10T12:04:37Z",
       "updated_at": "2026-11-10T12:04:41Z",
       "browser_download_url": "https://github.com/earendil-works/pi/releases/download/v1.5.2/pi-linux-x64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 56616843,
       "digest": "sha256:e83404bc5a6003ac950683edd9b6cf499dac91ec890d8439a8c32528de534a77",
-      "download_count": 53,
+      "download_count": 94,
       "created_at": "2026-11-10T12:04:41Z",
       "updated_at": "2026-11-10T12:04:43Z",
       "browser_download_url": "https://github.com/earendil-works/pi/releases/download/v1.5.2/pi-windows-arm64.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 61940631,
       "digest": "sha256:e6adb8cb8c84eca14391ad24b363de9d2be98a89ca3ba3fdee1fa4de32b7f2e8",
-      "download_count": 1937,
+      "download_count": 3601,
       "created_at": "2026-11-10T12:04:39Z",
       "updated_at": "2026-11-10T12:04:41Z",
       "browser_download_url": "https://github.com/earendil-works/pi/releases/download/v1.5.2/pi-windows-x64.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 822,
       "digest": "sha256:81ae42dab12ec3ffbe0d2e067d82b9de6d11903792cdc3a442ae7500b1a16e2b",
-      "download_count": 1019,
+      "download_count": 2357,
       "created_at": "2026-11-10T12:04:42Z",
       "updated_at": "2026-11-10T12:04:42Z",
       "browser_download_url": "https://github.com/earendil-works/pi/releases/download/v1.5.2/SHA256SUMS"
@@ -402,14 +402,14 @@
   "body": "### New Features\n\n- **Fork sessions whose folder is gone**: when a session's original folder was moved or deleted, you can now fork it into the current folder instead of only continuing, so later resumes no longer ask. See [Continue or switch sessions](https://github.com/earendil-works/pi/blob/v1.5.2/packages/coding-agent/docs/sessions.md#continue-or-switch-sessions).\n\n### Changed\n\n- When a session's working directory no longer exists, for example after the project folder was renamed, interactive mode now offers `Continue`, `Fork`, or `Cancel` instead of only continuing. `Continue` runs the session in the current directory without storing the choice, as before; `Fork` copies it into the current directory as a new session with a new ID, like `--fork`, so the next resume no longer asks. This applies at startup (`--session`, `--resume`), to `/resume`, to `/import`, and to `ctx.switchSession()` from extensions ([#11975](https://github.com/earendil-works/pi/pull/11975) by [@petrroll](https://github.com/petrroll), fixes [#11060](https://github.com/earendil-works/pi/issues/11060))\n\n### Fixed\n\n- Fixed `/import` of a session whose working directory no longer exists leaving a copy in the session directory, and continuing it leaving a second copy with the same ID (`s.jsonl` and `s-1.jsonl`); the failed copy is now removed ([#11975](https://github.com/earendil-works/pi/pull/11975) by [@petrroll](https://github.com/petrroll), fixes [#11060](https://github.com/earendil-works/pi/issues/11060))\n- Fixed Anthropic OAuth requests reporting an outdated Claude Code version\n",
   "reactions": {
     "url": "https://api.github.com/repos/earendil-works/pi/releases/440309680/reactions",
-    "total_count": 13,
-    "+1": 5,
+    "total_count": 23,
+    "+1": 9,
     "-1": 0,
     "laugh": 0,
-    "hooray": 1,
+    "hooray": 3,
     "confused": 0,
-    "heart": 5,
+    "heart": 7,
     "rocket": 0,
-    "eyes": 2
+    "eyes": 4
   }
 }
