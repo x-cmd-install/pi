@@ -1,17 +1,22 @@
-- repo: terra_rawhide
-  srcname: pi
-  binname: pi
-  visiblename: pi
-  version: 1.5.0
-  origversion: 1.5.0-1.fcrawhide
-  status: outdated
-  summary: Coding agent CLI with read, bash, edit, write tools and session management
+- repo: aur
+  srcname: pi-bin
+  binname: pi-bin
+  visiblename: pi-bin
+  version: 1.5.2
+  origversion: 1.5.2-1
+  status: newest
+  summary: 'AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI (pi-mono)'
   maintainers:
-    - june@fyralabs.com
+    - modinfo@aur
   licenses:
     - MIT
-  categories:
-    - Unspecified
+- repo: chocolatey
+  binname: pi
+  visiblename: pi
+  version: 1.4.0
+  origversion: null
+  status: outdated
+  summary: 'AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI'
 - repo: alt_p11
   srcname: pi
   binnames:
@@ -56,25 +61,6 @@
     - deons@aur
   licenses:
     - MIT
-- repo: aur
-  srcname: pi-bin
-  binname: pi-bin
-  visiblename: pi-bin
-  version: 1.5.2
-  origversion: 1.5.2-1
-  status: newest
-  summary: 'AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI (pi-mono)'
-  maintainers:
-    - modinfo@aur
-  licenses:
-    - MIT
-- repo: chocolatey
-  binname: pi
-  visiblename: pi
-  version: 1.4.0
-  origversion: null
-  status: outdated
-  summary: 'AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI'
 - repo: openmandriva_cooker
   subrepo: main/release
   srcname: pi
@@ -105,9 +91,23 @@
   srcname: pi
   binname: pi
   visiblename: pi
-  version: 1.5.0
-  origversion: 1.5.0-1.fcrawhide
-  status: outdated
+  version: 1.5.2
+  origversion: 1.5.2-1.fcrawhide
+  status: newest
+  summary: Coding agent CLI with read, bash, edit, write tools and session management
+  maintainers:
+    - june@fyralabs.com
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: terra_rawhide
+  srcname: pi
+  binname: pi
+  visiblename: pi
+  version: 1.5.2
+  origversion: 1.5.2-1.fcrawhide
+  status: newest
   summary: Coding agent CLI with read, bash, edit, write tools and session management
   maintainers:
     - june@fyralabs.com
