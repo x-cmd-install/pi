@@ -1,20 +1,17 @@
-- repo: spack
-  srcname: pi
+- repo: chocolatey
+  binname: pi
   visiblename: pi
-  version: 1.2.0
+  version: 1.5.2
   origversion: null
-  status: outdated
-  maintainers:
-    - alecbcs@spack
-  licenses:
-    - MIT
+  status: newest
+  summary: 'AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI'
 - repo: alt_p11
   srcname: pi
   binnames:
     - pi
   visiblename: pi
-  version: 1.5.0
-  origversion: 1:1.5.0-alt1
+  version: 1.5.1
+  origversion: 1:1.5.1-alt1
   status: outdated
   summary: Terminal AI coding agent with read, bash, edit and write tools
   maintainers:
@@ -64,13 +61,6 @@
     - modinfo@aur
   licenses:
     - MIT
-- repo: chocolatey
-  binname: pi
-  visiblename: pi
-  version: 1.5.2
-  origversion: null
-  status: newest
-  summary: 'AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI'
 - repo: openmandriva_cooker
   subrepo: main/release
   srcname: pi
@@ -87,6 +77,16 @@
     - MIT
   categories:
     - Development/Other
+- repo: spack
+  srcname: pi
+  visiblename: pi
+  version: 1.2.0
+  origversion: null
+  status: outdated
+  maintainers:
+    - alecbcs@spack
+  licenses:
+    - MIT
 - repo: terra_rawhide
   srcname: pi
   binname: pi
