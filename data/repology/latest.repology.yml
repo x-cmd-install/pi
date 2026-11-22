@@ -18,9 +18,9 @@
   binnames:
     - pi
   visiblename: pi
-  version: 1.5.2
-  origversion: 1:1.5.2-alt1
-  status: outdated
+  version: 1.6.0
+  origversion: 1:1.6.0-alt1
+  status: newest
   summary: Terminal AI coding agent with read, bash, edit and write tools
   maintainers:
     - rider@altlinux.org
