@@ -57,9 +57,9 @@
 - repo: chocolatey
   binname: pi
   visiblename: pi
-  version: 1.5.2
+  version: 1.6.0
   origversion: null
-  status: outdated
+  status: newest
   summary: 'AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI'
 - repo: openmandriva_cooker
   subrepo: main/release
